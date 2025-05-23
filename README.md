@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Wahyu Cahyo W
+NIU : 444077
+Sesi : B_15/Jumat
+Secret String : 92d89d85bf050fa7e41d5857e0f964deb44395266145ef3450d1a0bdb57e6d4320250523011245
 
 ## Checklist Responsi
 
